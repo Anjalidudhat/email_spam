@@ -8,5 +8,4 @@ wordcloud
 nltk
 regex
 pytest-warnings
-pickle5
 imbalanced-learn
